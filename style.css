@@ -62,5 +62,13 @@ button:hover{
 @media (max-width:990px){
 .inner{
   width: 85%;
+  zoom : 130%;
 }
 }
+@media (max-width: 400px){
+  .inner{
+    zoom:170%;
+  }
+}
+
+
